@@ -1,0 +1,35 @@
+C:\Users\Андрей\source\repos\ooooop5\ops5\bin\Debug\ops5.exe.config
+C:\Users\Андрей\source\repos\ooooop5\ops5\bin\Debug\ops5.exe
+C:\Users\Андрей\source\repos\ooooop5\ops5\bin\Debug\ops5.pdb
+C:\Users\Андрей\source\repos\ooooop5\ops5\obj\Debug\MainWindow.g.cs
+C:\Users\Андрей\source\repos\ooooop5\ops5\obj\Debug\Personcard.g.cs
+C:\Users\Андрей\source\repos\ooooop5\ops5\obj\Debug\App.g.cs
+C:\Users\Андрей\source\repos\ooooop5\ops5\obj\Debug\ops5_MarkupCompile.cache
+C:\Users\Андрей\source\repos\ooooop5\ops5\obj\Debug\ops5_MarkupCompile.lref
+C:\Users\Андрей\source\repos\ooooop5\ops5\obj\Debug\MainWindow.baml
+C:\Users\Андрей\source\repos\ooooop5\ops5\obj\Debug\Personcard.baml
+C:\Users\Андрей\source\repos\ooooop5\ops5\obj\Debug\ops5.g.resources
+C:\Users\Андрей\source\repos\ooooop5\ops5\obj\Debug\ops5.Properties.Resources.resources
+C:\Users\Андрей\source\repos\ooooop5\ops5\obj\Debug\ops5.csproj.GenerateResource.cache
+C:\Users\Андрей\source\repos\ooooop5\ops5\obj\Debug\ops5.csproj.CoreCompileInputs.cache
+C:\Users\Андрей\source\repos\ooooop5\ops5\obj\Debug\ops5.exe
+C:\Users\Андрей\source\repos\ooooop5\ops5\obj\Debug\ops5.pdb
+C:\Users\Андрей\source\repos\ooooop5\ops5\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\Андрей\source\repos\ooooop5\ops5\obj\Debug\ops5.csprojAssemblyReference.cache
+C:\Users\aleks\OneDrive\Рабочий стол\ooooop5\ops5\obj\Debug\MainWindow.g.cs
+C:\Users\aleks\OneDrive\Рабочий стол\ooooop5\ops5\obj\Debug\Personcard.g.cs
+C:\Users\aleks\OneDrive\Рабочий стол\ooooop5\ops5\obj\Debug\App.g.cs
+C:\Users\aleks\OneDrive\Рабочий стол\ooooop5\ops5\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\aleks\OneDrive\Рабочий стол\ooooop5\ops5\obj\Debug\ops5_MarkupCompile.cache
+C:\Users\aleks\OneDrive\Рабочий стол\ooooop5\ops5\obj\Debug\ops5_MarkupCompile.lref
+C:\Users\aleks\OneDrive\Рабочий стол\ooooop5\ops5\bin\Debug\ops5.exe.config
+C:\Users\aleks\OneDrive\Рабочий стол\ooooop5\ops5\bin\Debug\ops5.exe
+C:\Users\aleks\OneDrive\Рабочий стол\ooooop5\ops5\bin\Debug\ops5.pdb
+C:\Users\aleks\OneDrive\Рабочий стол\ooooop5\ops5\obj\Debug\MainWindow.baml
+C:\Users\aleks\OneDrive\Рабочий стол\ooooop5\ops5\obj\Debug\Personcard.baml
+C:\Users\aleks\OneDrive\Рабочий стол\ooooop5\ops5\obj\Debug\ops5.g.resources
+C:\Users\aleks\OneDrive\Рабочий стол\ooooop5\ops5\obj\Debug\ops5.Properties.Resources.resources
+C:\Users\aleks\OneDrive\Рабочий стол\ooooop5\ops5\obj\Debug\ops5.csproj.GenerateResource.cache
+C:\Users\aleks\OneDrive\Рабочий стол\ooooop5\ops5\obj\Debug\ops5.csproj.CoreCompileInputs.cache
+C:\Users\aleks\OneDrive\Рабочий стол\ooooop5\ops5\obj\Debug\ops5.exe
+C:\Users\aleks\OneDrive\Рабочий стол\ooooop5\ops5\obj\Debug\ops5.pdb

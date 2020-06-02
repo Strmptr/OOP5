@@ -1,0 +1,19 @@
+C:\Users\Андрей\source\repos\ooooop5\ooooop5\bin\Debug\ooooop5.exe.config
+C:\Users\Андрей\source\repos\ooooop5\ooooop5\bin\Debug\ooooop5.exe
+C:\Users\Андрей\source\repos\ooooop5\ooooop5\bin\Debug\ooooop5.pdb
+C:\Users\Андрей\source\repos\ooooop5\ooooop5\obj\Debug\ooooop5.Properties.Resources.resources
+C:\Users\Андрей\source\repos\ooooop5\ooooop5\obj\Debug\ooooop5.csproj.GenerateResource.cache
+C:\Users\Андрей\source\repos\ooooop5\ooooop5\obj\Debug\ooooop5.csproj.CoreCompileInputs.cache
+C:\Users\Андрей\source\repos\ooooop5\ooooop5\obj\Debug\ooooop5.exe
+C:\Users\Андрей\source\repos\ooooop5\ooooop5\obj\Debug\ooooop5.pdb
+C:\Users\Андрей\source\repos\ooooop5\ooooop5\obj\Debug\ooooop5.Form1.resources
+C:\Users\Андрей\source\repos\ooooop5\ooooop5\obj\Debug\ooooop5.csprojAssemblyReference.cache
+C:\Users\aleks\OneDrive\Рабочий стол\ooooop5\ooooop5\bin\Debug\ooooop5.exe.config
+C:\Users\aleks\OneDrive\Рабочий стол\ooooop5\ooooop5\bin\Debug\ooooop5.exe
+C:\Users\aleks\OneDrive\Рабочий стол\ooooop5\ooooop5\bin\Debug\ooooop5.pdb
+C:\Users\aleks\OneDrive\Рабочий стол\ooooop5\ooooop5\obj\Debug\ooooop5.Form1.resources
+C:\Users\aleks\OneDrive\Рабочий стол\ooooop5\ooooop5\obj\Debug\ooooop5.Properties.Resources.resources
+C:\Users\aleks\OneDrive\Рабочий стол\ooooop5\ooooop5\obj\Debug\ooooop5.csproj.GenerateResource.cache
+C:\Users\aleks\OneDrive\Рабочий стол\ooooop5\ooooop5\obj\Debug\ooooop5.csproj.CoreCompileInputs.cache
+C:\Users\aleks\OneDrive\Рабочий стол\ooooop5\ooooop5\obj\Debug\ooooop5.exe
+C:\Users\aleks\OneDrive\Рабочий стол\ooooop5\ooooop5\obj\Debug\ooooop5.pdb
