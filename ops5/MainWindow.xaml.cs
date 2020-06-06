@@ -23,11 +23,6 @@ namespace ops5
         public MainWindow()
         {
             InitializeComponent();
-            PC.LabelName.Content = "Andrey A.V";
-            PC.LabelWork.Content = "SibGUCCI/student";
-            PC.LabelPhone.Content = "+795160000";
-            PC.MyImage = "Image/123.jpg";
-            PC.Call.ToolTip = "Неправильно набран номер";
 
         }
 

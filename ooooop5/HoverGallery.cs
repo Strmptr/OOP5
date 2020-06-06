@@ -12,14 +12,7 @@ namespace ooooop5
     class HoverGallery:HoverButton
     {
         private int i = 0;
-      
         public List<MyImage> Im = new List<MyImage>();
-        public HoverGallery() : base()
-        {
-            Im.Add(new MyImage(new Bitmap(Properties.Resources.kust), "Не нажимай"));
-            Im.Add(new MyImage(new Bitmap(Properties.Resources.kot), "Ну просил же"));
-
-        }
 
         protected override void OnPaint(PaintEventArgs pe)
         {

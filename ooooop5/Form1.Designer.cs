@@ -28,39 +28,39 @@
         /// </summary>
         private void InitializeComponent()
         {
-            this.hoverGallery1 = new ooooop5.HoverGallery();
-            this.hoverGalleryOval1 = new ooooop5.HoverGalleryOval();
+            this.gal1 = new ooooop5.HoverGallery();
+            this.gal2 = new ooooop5.HoverGalleryOval();
             this.SuspendLayout();
             // 
-            // hoverGallery1
+            // gal1
             // 
-            this.hoverGallery1.Font = new System.Drawing.Font("Arial", 20.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.hoverGallery1.ForeColor = System.Drawing.Color.White;
-            this.hoverGallery1.Location = new System.Drawing.Point(3, 3);
-            this.hoverGallery1.Name = "hoverGallery1";
-            this.hoverGallery1.Size = new System.Drawing.Size(642, 402);
-            this.hoverGallery1.TabIndex = 0;
-            this.hoverGallery1.Text = "hoverGallery1";
-            this.hoverGallery1.UseVisualStyleBackColor = true;
+            this.gal1.Font = new System.Drawing.Font("Arial", 20.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.gal1.ForeColor = System.Drawing.Color.White;
+            this.gal1.Location = new System.Drawing.Point(108, 54);
+            this.gal1.Name = "gal1";
+            this.gal1.Size = new System.Drawing.Size(260, 256);
+            this.gal1.TabIndex = 0;
+            this.gal1.Text = "hoverGallery1";
+            this.gal1.UseVisualStyleBackColor = true;
             // 
-            // hoverGalleryOval1
+            // gal2
             // 
-            this.hoverGalleryOval1.Font = new System.Drawing.Font("Arial", 20.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.hoverGalleryOval1.ForeColor = System.Drawing.Color.White;
-            this.hoverGalleryOval1.Location = new System.Drawing.Point(689, 32);
-            this.hoverGalleryOval1.Name = "hoverGalleryOval1";
-            this.hoverGalleryOval1.Size = new System.Drawing.Size(449, 399);
-            this.hoverGalleryOval1.TabIndex = 1;
-            this.hoverGalleryOval1.Text = "hoverGalleryOval1";
-            this.hoverGalleryOval1.UseVisualStyleBackColor = true;
+            this.gal2.Font = new System.Drawing.Font("Arial", 20.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.gal2.ForeColor = System.Drawing.Color.White;
+            this.gal2.Location = new System.Drawing.Point(502, 47);
+            this.gal2.Name = "gal2";
+            this.gal2.Size = new System.Drawing.Size(288, 262);
+            this.gal2.TabIndex = 1;
+            this.gal2.Text = "hoverGalleryOval1";
+            this.gal2.UseVisualStyleBackColor = true;
             // 
             // Form1
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(1370, 587);
-            this.Controls.Add(this.hoverGalleryOval1);
-            this.Controls.Add(this.hoverGallery1);
+            this.ClientSize = new System.Drawing.Size(1247, 438);
+            this.Controls.Add(this.gal2);
+            this.Controls.Add(this.gal1);
             this.Name = "Form1";
             this.Text = "Form1";
             this.ResumeLayout(false);
@@ -69,8 +69,8 @@
 
         #endregion
 
-        private HoverGallery hoverGallery1;
-        private HoverGalleryOval hoverGalleryOval1;
+        private HoverGallery gal1;
+        private HoverGalleryOval gal2;
     }
 }
 

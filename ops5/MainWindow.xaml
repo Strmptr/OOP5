@@ -7,7 +7,6 @@
         mc:Ignorable="d"
         Title="MainWindow" Height="450" Width="800">
     <Grid>
-        <local:Personcard x:Name="PC" HorizontalAlignment="Left" Height="399" Margin="10,10,0,0" VerticalAlignment="Top" Width="772"/>
-
+        <local:Info HorizontalAlignment="Left" Height="419" VerticalAlignment="Top" Width="792" PName="Alekseev A. V." PCompany="SibGUCCHI/student" PNumber="88005553535" Pimg="Image/123.jpg"/>
     </Grid>
 </Window>
